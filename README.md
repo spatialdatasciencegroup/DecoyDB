@@ -1,7 +1,7 @@
 
 # DecoyDB: A Dataset for Graph Contrastive Learning in Protein-Ligand Binding Affinity Prediction
 
-🔧[Code](https://github.com/spatialdatasciencegroup/Decoy_DB), 📂[Dataset](https://huggingface.co/datasets/YupuZ/DecoyDB)
+🔧[Code](https://github.com/spatialdatasciencegroup/DecoyDB), 📂[Dataset](https://huggingface.co/datasets/YupuZ/Decoy_DB)
 
 This repository provides benchmark implementations for evaluating **DecoyDB**, a large-scale dataset designed to facilitate **graph contrastive learning** in **protein-ligand binding affinity prediction**. It includes models across three categories: CNN-based methods, sequence-based DTA methods, and GNN-based methods (including contrastive pretraining frameworks).
 

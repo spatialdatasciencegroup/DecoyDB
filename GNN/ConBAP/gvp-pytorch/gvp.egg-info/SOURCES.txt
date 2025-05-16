@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+gvp/__init__.py
+gvp/atom3d.py
+gvp/data.py
+gvp/models.py
+gvp.egg-info/PKG-INFO
+gvp.egg-info/SOURCES.txt
+gvp.egg-info/dependency_links.txt
+gvp.egg-info/requires.txt
+gvp.egg-info/top_level.txt
